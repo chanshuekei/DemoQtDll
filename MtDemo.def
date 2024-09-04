@@ -1,0 +1,5 @@
+﻿LIBRARY MtDemo
+EXPORTS
+    MT_Open
+    MT_Close
+    MT_Test
